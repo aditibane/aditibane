@@ -14,3 +14,7 @@ I have a passion for learning something new and helping others as publicly as po
 - 💬 Ask me about anything. I'm happy to help
 - 📫 How to reach me: aditibane555@gmail.com
 - 😄 Fun fact: I know all the memes.
+* Item 1
+* Item 2
+  * Sub Item 1
+  * Sub Item 2
