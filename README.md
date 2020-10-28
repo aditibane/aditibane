@@ -6,6 +6,7 @@
 I'm a AI enthusiast looking to solve real world problems. My areas of interests are AI, NN, ML/DL.
 I have a passion for learning something new and helping others as publicly as possible. Feel free to reach out to me.
 
+Markup : - Bullet list
 - ⚡ "Learning never exhausts the mind" - Leonardo Da Vinci
 - 🔭 I’m currently working on ML/DL Projects
 - 🌱 I’m currently learning AI and Neural Networks
